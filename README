@@ -3,7 +3,7 @@ INFO
 Experimental "web server" that acceps PUT-requests with JavaScript code as content.
 The server evaluates the JavaScript code using the Rhino engine.
 Copyright (c) 2009 Mikael Kindborg mikael.kindborg@gmail.com
-Licence: MIT
+Licence: MITc
 
 HOW TO INSTALL
 
